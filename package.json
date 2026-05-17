@@ -9,6 +9,7 @@
     "build:dev": "vite build --mode development",
     "preview": "vite preview",
     "lint": "eslint .",
+    "start": "index.js"
     "format": "prettier --write ."
   },
   "dependencies": {
